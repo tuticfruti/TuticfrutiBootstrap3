@@ -1,2 +1,2 @@
 # TuticfrutiBootstrap3
-A complete set of Bootstrap3 snippets.
+A complete and reusable set of Bootstrap3 snippets.
