@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+ <li class="disabled"><span>$1</span></li>
+]]></content>
+	<tabTrigger>b-pagination-item-disable</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

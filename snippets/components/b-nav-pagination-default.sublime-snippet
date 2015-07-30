@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<nav>
+	<ul class="pagination${1: pagination-${2:(sm|lg)}}">
+	<li>
+		<a href="${3:#}" aria-label="Previouu">
+			<span aria-hidden="true">&laquo;</span>
+		</a>
+	</li>
+	${4:b-pagination-item-default}
+	${5:b-pagination-item-active}
+	${6:b-pagination-item-disable}
+	<li>
+		<a href="${7:#}" aria-label="Next">
+			<span aria-hidden="true">&raquo;</span>
+		</a>
+	</li>
+	</ul>
+</nav>
+]]></content>
+	<tabTrigger>b-nav-pagination-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

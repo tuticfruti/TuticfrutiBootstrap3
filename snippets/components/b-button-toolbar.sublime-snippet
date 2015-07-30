@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-toolbar" role="toolbar" aria-label="...">
+	${1:b-button-group}
+</div>
+]]></content>
+	<tabTrigger>b-button-toolbar</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<h${1:(1-6)}>${2:__text__ }<span class="label label-${3:(default|primary|success|info|warning|danger)}">${4:__label__}</span></h$1>
+]]></content>
+	<tabTrigger>b-label</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

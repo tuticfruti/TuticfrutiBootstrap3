@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<li class="list-group-item">${1:__label__}</li>
+]]></content>
+	<tabTrigger>b-list-group-item-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

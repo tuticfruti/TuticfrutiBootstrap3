@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<li class="dropdown-header">${1:$SELECTED}</li>
+]]></content>
+    <tabTrigger>b-button-dropdown-menu-item-header</tabTrigger>
+    <scope>text.html - meta.tag</scope>
+</snippet>

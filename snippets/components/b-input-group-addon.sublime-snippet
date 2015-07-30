@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+	<div class="input-group${1: input-group-${2:(sm|lg)}}">
+		<div class="input-group">${3:
+			<span class="input-group-btn">
+				${4:b-button-default}
+			</span>}
+			<input type="text" class="form-control"${5: paceholder="$6"}>${7:
+			<span class="input-group-btn">
+				${8:b-button-default}
+			</span>}
+		</div>
+	</div>
+</div>
+]]></content>
+	<tabTrigger>b-input-group-addon</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

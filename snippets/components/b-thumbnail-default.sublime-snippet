@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+	<div class="col-${1:(xs|sm|md|lg)}-${2:(1-12)}">
+		<div class="thumbnail">
+			<img src="$3" alt="$4">
+			<div class="caption">
+				<h3>Title</h3>
+				<p>Content ...</p>
+			</div>
+		</div>
+	</div>
+</div>
+]]></content>
+	<tabTrigger>b-thumbnail-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

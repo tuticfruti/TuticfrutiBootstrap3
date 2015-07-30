@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="container-fluid">
+	${1:b-grid-row}${2:$SELECTION}
+</div>
+]]></content>
+	<tabTrigger>b-grid-container-fluid</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+
+</snippet>

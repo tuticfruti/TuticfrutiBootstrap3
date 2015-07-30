@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a class="btn ${1:btn-default}" href="${2:#}" role="button">$3</a>
+]]></content>
+	<tabTrigger>b-button-link</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<button id="${2:__id${TM_LINE_NUMBER}__}" name="${3:__name${TM_LINE_NUMBER}__}" class="btn btn-${4:(default|primary|success|info|warning|danger|link)} dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">${5:__heading__}
+	<span class="caret"></span>
+	<span class="sr-only">$6</span>
+</button>
+<ul class="dropdown-menu${7: dropdown-menu-right}" aria-labelledby="$8">
+	${9:b-button-dropdown-menu-item}
+</ul>
+]]></content>
+	<tabTrigger>b-button-dropdown-menu-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

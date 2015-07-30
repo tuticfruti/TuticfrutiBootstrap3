@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<ul class="media-list">
+  <li class="media">
+    <div class="media-${1:(left|right)}${2: media-${3:(top|middle|bottom)}"}>
+      <a href="${4:#}">
+        <img class="media-object" src="$5" alt="$6">
+      </a>
+    </div>
+    <div class="media-body">
+      <h4 class="media-heading">$6</h4>
+      $7
+    </div>
+  </li>
+</ul>
+]]></content>
+	<tabTrigger>b-media-list</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

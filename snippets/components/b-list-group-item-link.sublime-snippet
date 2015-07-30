@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1:#}" class="list-group-item${2: (active|disabled)}">${3:__label__}</a>
+]]></content>
+	<tabTrigger>b-list-group-item-link</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

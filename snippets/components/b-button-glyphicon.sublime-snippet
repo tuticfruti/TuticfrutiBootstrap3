@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<button type="button" class="btn btn-${1:(default|primary|success|info|warning|danger|link)}">
+  <span class="glyphicon glyphicon-${2:(home| .. )}" aria-hidden="true"></span> $3
+</button>
+]]></content>
+	<tabTrigger>b-button-glyphicon</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

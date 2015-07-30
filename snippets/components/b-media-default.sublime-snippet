@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="media">
+  <div class="media-${1:(left|right)} ${2: media-${3:(top|middle|bottom)}"}>
+    <a href="${4:#}">
+      <img class="media-object" src="$5" alt="$6">
+    </a>
+  </div>
+  <div class="media-body">
+    <h4 class="media-heading">${6:__heading__}</h4>
+    ${7:__content__}
+  </div>
+</div>
+]]></content>
+	<tabTrigger>b-media-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<select id="${1:__id${TM_LINE_NUMBER}__}" name="${2:__name${TM_LINE_NUMBER}__}" class="form-control">
+	<option>$3</option>
+</select>
+]]></content>
+	<tabTrigger>b-form-select</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

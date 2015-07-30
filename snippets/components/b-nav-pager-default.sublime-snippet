@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<nav>
+	<ul class="pager">
+		<li${1: class="${2:previous}${3: disabled}"}><a href="${4:#}">$5</a></li>
+		<li${6: class="${7:next}${8: disabled}"}><a href="${9:#}">$10</a></li>
+	</ul>
+</nav>
+]]></content>
+	<tabTrigger>b-pager-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

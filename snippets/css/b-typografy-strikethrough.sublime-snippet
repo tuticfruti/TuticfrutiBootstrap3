@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<del>${1:$SELECTION}</del>
+]]></content>
+	<tabTrigger>b-strikethrough</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

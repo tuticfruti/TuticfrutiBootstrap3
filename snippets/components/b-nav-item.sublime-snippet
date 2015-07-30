@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<li role="presentation"><a href="#">$1</a></li>
+]]></content>
+	<tabTrigger>b-nav-item</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

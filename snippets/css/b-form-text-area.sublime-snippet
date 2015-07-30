@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<textarea ${1:__id${TM_LINE_NUMBER}__}" name="${2:__name${TM_LINE_NUMBER}__}" class="form-control$3" rows="$4" placeholder="$5">$6</textarea>
+]]></content>
+	<tabTrigger>b-form-text-area</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

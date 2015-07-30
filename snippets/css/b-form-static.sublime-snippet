@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+	<label class="control-label${1: col-${2:(xs|sm|md|lg)}-${3:(1-12)}}">$4</label>
+	<div${5: class="col-${6:(xs|sm|md|lg)}-${7:(1-12)}"}>
+		<p class="form-control-static">$8</p>
+	</div>
+</div>
+]]></content>
+	<tabTrigger>b-form-static</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>
