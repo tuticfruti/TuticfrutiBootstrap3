@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group btn-group-justified${1: btn-group-${2:(xs|sm|lg)}}" role="group" aria-label=""> <!-- Button group -->
+	${3:bbutton-link}
+	${4:bbutton-link}
+	${5:bbutton-link}
+</div> <!-- /Button group -->
+]]></content>
+	<tabTrigger>bbutton-group-justified</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

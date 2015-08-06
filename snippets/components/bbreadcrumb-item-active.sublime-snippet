@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<li class="active">$1</li>
+]]></content>
+	<tabTrigger>bbreadcrumb-item-active</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

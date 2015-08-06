@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<button type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-]]></content>
-	<tabTrigger>b-helper-close-icon</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

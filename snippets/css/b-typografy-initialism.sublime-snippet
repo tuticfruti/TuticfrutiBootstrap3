@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<abbr title="$1" class="initialism">"${2:$SELECTION}</abbr>
-]]></content>
-	<tabTrigger>b-initialism</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

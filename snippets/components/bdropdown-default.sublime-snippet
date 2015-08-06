@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group${1: btn-group-${2:(xs|sm|lg)}}${3: dropup}"> <!-- Dropdown -->
+	<button class="btn btn-${4:(default|primary|success|info|warning|danger|link)} dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">${5:__dropdown__}
+		<span class="caret"></span>
+		<span class="sr-only"></span>
+	</button>
+	<ul class="dropdown-menu${6: dropdown-menu-right}">
+		${7:bdropdown-item}
+		${8:bdropdown-item}
+		${9:bdropdown-item}
+	</ul>
+</div> <!-- /Dropdown -->
+]]></content>
+	<tabTrigger>bdropdown-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

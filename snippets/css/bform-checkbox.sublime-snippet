@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="checkbox">
+	<label>
+		<input type="checbox"> $1
+	</label>
+</div>
+]]></content>
+	<tabTrigger>bform-checkbox</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

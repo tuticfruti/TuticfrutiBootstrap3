@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<span class="caret"></span>
-]]></content>
-	<tabTrigger>b-helper-caret</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

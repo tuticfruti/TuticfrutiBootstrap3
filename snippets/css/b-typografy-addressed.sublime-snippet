@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<address>${1:$SELECTION}</address>
-]]></content>
-	<tabTrigger>b-addressed</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

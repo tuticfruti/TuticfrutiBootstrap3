@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="pull-${1:(left|right)}"></div>
-]]></content>
-	<tabTrigger>b-helper-pull</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

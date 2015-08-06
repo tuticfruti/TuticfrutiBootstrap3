@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<button type="button" class="list-group-item">$1</button>
-]]></content>
-	<tabTrigger>b-list-group-item-button</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

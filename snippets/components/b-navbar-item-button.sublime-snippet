@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<li>
-	<button type="button" class="btn btn-${1:(default|primary|success|info|warning|danger|link)} navbar-btn">$2</button>
-</li>
-]]></content>
-	<tabTrigger>b-navbar-item-button</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

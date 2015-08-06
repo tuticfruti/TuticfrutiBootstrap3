@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<blockquote>${1:$SELECTION}</blockquote>
-]]></content>
-	<tabTrigger>b-blockquoted</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

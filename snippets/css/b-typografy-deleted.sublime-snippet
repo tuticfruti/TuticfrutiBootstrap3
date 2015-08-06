@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<del>${1:$SELECTION}</del>
-]]></content>
-	<tabTrigger>b-del</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

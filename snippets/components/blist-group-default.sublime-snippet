@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+${1:<ul class="list-group"> <!-- List group -->
+	${2:blist-group-item-default}
+	${3:blist-group-item-badge}
+	${4:blist-group-item-context}
+</ul> <!-- /List group -->}${5:
+<div class="list-group"> <!-- List group -->
+	${6:blist-group-item-link}
+	${7:blist-group-item-button}
+	${8:blist-group-item-custom}
+</div> <!-- /List group -->}
+]]></content>
+	<tabTrigger>blist-group-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

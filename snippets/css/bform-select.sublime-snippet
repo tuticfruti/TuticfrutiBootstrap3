@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<select class="form-control">
+	<option>$1</option>
+</select>
+]]></content>
+	<tabTrigger>bform-select</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

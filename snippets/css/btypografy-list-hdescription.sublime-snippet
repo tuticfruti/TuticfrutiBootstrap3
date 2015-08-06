@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<blockquote class="dl-horizontal">
+	<p>${1:$SELECTION}</p>
+	<footer>$2</footer>
+</blockquote>
+]]></content>
+	<tabTrigger>btypografy-list-hdescription</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<ol class="breadcrumb">
+	${1:bbreadcrumb-item}
+</ol>
+]]></content>
+	<tabTrigger>bbreadcrumb-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

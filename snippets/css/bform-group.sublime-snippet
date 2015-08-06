@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+	${1:blabel}
+	${2:bform-input}
+</div>
+]]></content>
+	<tabTrigger>bform-group</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

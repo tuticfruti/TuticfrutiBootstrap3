@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-toolbar" role="toolbar" aria-label=""> <!-- Button toolbar -->
+	${1:bbutton-group-default}
+</div> <!-- /Button toolbar -->
+]]></content>
+	<tabTrigger>bbutton-toolbar</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

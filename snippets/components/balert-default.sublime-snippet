@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="alert alert-${1:(success|info|warning|danger)}" role="alert">
+	<span class="sr-only"></span>
+	$2
+</div>
+]]></content>
+	<tabTrigger>balert-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="page-header">
-  <h${1:(1-6)}>Example page header <small>Subtext for header</small></h$1>
-</div>
-]]></content>
-	<tabTrigger>b-page-header</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

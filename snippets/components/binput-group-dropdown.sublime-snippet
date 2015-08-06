@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-group${1: input-group-${2:(sm|lg)}}"> <!-- Input group -->
+	${3:bform-input}
+	<div class="input-group-btn">
+		${4:bdropdown-default}
+	</div>
+	${5:bform-input}
+</div> <!-- /Input group -->
+]]></content>
+	<tabTrigger>binput-group-dropdown</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

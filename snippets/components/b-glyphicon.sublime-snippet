@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<span class="glyphicon glyphicon-$1"></span>
-]]></content>
-	<tabTrigger>b-glyphicon</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

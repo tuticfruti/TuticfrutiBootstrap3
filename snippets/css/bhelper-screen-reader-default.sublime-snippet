@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<span class="sr-only"></span>
+]]></content>
+	<tabTrigger>bhelper-screen-reader&default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

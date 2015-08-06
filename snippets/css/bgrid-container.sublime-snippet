@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="container${1:-fluid}">
+	${2:bgrid-row}${3:$SELECTION}
+</div>
+]]></content>
+	<tabTrigger>bgrid-container</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

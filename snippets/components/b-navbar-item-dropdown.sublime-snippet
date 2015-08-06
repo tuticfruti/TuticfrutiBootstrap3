@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<li class="dropdown navbar-btn">
-	${1:b-button-dropdown-menu}
-</li>
-]]></content>
-	<tabTrigger>b-navbar-item-dropdown</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

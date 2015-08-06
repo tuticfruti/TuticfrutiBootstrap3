@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group${1: btn-group-${2:(xs|sm|md|lg)}}${3: dropup}"> <!-- Split button dropdown -->
+	<button type="button" class="btn btn-${4:(default|primary|success|info|warning|danger|link)}">${5:__action__}</button>
+	<button class="btn btn-$4 dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		<span class="caret"></span>
+		<span class="sr-only"></span>
+	</button>
+	<ul class="dropdown-menu${6: dropdown-menu-right}">
+		${7:bdropdown-item}
+		${8:bdropdown-item}
+		${9:bdropdown-item}
+	</ul>
+</div> <!-- /Split button dropdown -->
+]]></content>
+	<tabTrigger>bdropdown-split</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

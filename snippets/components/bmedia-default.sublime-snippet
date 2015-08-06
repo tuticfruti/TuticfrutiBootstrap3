@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="media"> <!-- Media -->
+	${1:bmedia-item-default}
+</div> <!-- /Media -->
+]]></content>
+	<tabTrigger>bmedia-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

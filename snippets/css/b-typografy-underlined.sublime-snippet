@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<u>${1:$SELECTION}</u>
-]]></content>
-	<tabTrigger>b-underlined</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

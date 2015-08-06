@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+${1:
+<div class="media-left${2: media-${3:(top|middle|bottom)}}"> <!-- Image left (optional) -->
+  <a href="${4:#}">
+    <img class="media-object" src="$5" alt="$6">
+  </a>
+</div>
+}<div class="media-body"> <!-- Media body -->
+  <h4 class="media-heading">$7</h4>
+  ${8:__content__}
+</div> <!-- /Media body -->${9:
+<div class="media-right${10: media-${11:(top|middle|bottom)}}"> <!-- Image right (optional) -->
+  <a href="${12:#}">
+    <img class="media-object" src="$13" alt="$14">
+  </a>
+</div>}
+]]></content>
+	<tabTrigger>bmedia-item-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

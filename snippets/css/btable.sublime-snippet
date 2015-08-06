@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<table class="table${1:-responsive}">
+	${2:btable-header}
+	${3:btable-body}
+	${4:btable-footer}
+</table>
+]]></content>
+	<tabTrigger>btable</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

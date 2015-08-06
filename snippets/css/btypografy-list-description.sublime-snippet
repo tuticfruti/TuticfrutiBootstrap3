@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<dl>
+	<dt>$1</dt>
+	<dd>$2</dd>
+</dl>
+]]></content>
+	<tabTrigger>btypografy-list-description</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-group${1: input-group-${2:(sm|lg)}}"> <!-- Input group -->
+	<span class="input-group-addon">
+		<input type="${3:(radio|checkbox)}" aria-label="">
+	</span>
+	<input type="text" class="form-control" aria-label="">
+</div> <!-- /Input group -->
+]]></content>
+	<tabTrigger>binput-group-radio-checkbox</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

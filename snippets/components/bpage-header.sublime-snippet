@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="page-header">
+	<h${1:(1-6)}>$2</h$1>
+</div>
+]]></content>
+	<tabTrigger>bpage-header</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>
