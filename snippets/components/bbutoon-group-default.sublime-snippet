@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="btn-group${1:-vertical}${2: btn-group-${3:(xs|sm|lg)}}" role="group" aria-label="">
-	${4:bbutton-default}
-</div>
-]]></content>
-	<tabTrigger>bbutton-group-default</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

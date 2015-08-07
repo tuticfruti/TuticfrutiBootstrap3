@@ -3,14 +3,14 @@
 <div class="panel panel-${1:(default|primary|success|info|warning|danger)}"> <!-- Panel -->${2:
 	<div class="panel-heading"> <!-- Panel heading (optional) -->
 		<h${3:(1-6)}>${4:__title__}</h$3>
-	</div>${5:
+	</div>}
 	<div class="panel-body"> <!-- Panel body -->
-		${6:__body__}
+		${5:__body__}
 	</div> <!-- /Panel body -->
-	<!-- Insert related table or list group here -->}${9:
+	<!-- Insert related table or list group here -->${6:
 	<div class="panel-footer"> <!-- Panel footer (optional) -->
-		${10: __footer__}
-	</div>
+		${7: __footer__}
+	</div>}
 </div> <!-- /Panel -->
 ]]></content>
 	<tabTrigger>bpanel-default</tabTrigger>
