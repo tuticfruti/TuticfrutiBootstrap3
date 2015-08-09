@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div> <!-- Col and col offset with horizontal forms -->
+	<button class="btn btn-${1:(default|primary|success|info|warning|danger|link)}" type="submit">$0</button>
+</div>
+]]></content>
+	<tabTrigger>bcontrol-submit</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

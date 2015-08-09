@@ -2,12 +2,6 @@
 	<content><![CDATA[
 <form${1: class="form-${2:(horizontal|inline)}"} action="${3:#}" method="${4:get}"${5: enctype="multipart/form-data"}>
 	${6:bform-group}
-	<div class="clearfix"></div>
-	<div class="form-group col-sm-12">
-		<div> <!-- Col and col offset with horizontal forms -->
-			<button type="submit" class="btn btn-${8:(default|primary|success|info|warning|danger|link)}">$9</button>
-		</div>
-	</div>
 </form>
 ]]></content>
 	<tabTrigger>bform-default</tabTrigger>

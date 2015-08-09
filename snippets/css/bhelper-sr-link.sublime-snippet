@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <a class="sr-only sr-only-focusable" href="${1:#}">$2</a>
 ]]></content>
-	<tabTrigger>bhelper:screen-reader-link</tabTrigger>
+	<tabTrigger>bhelper-sr-link</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

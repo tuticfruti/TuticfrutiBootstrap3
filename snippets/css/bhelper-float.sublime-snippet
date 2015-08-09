@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<span class="sr-only"></span>
+<div class="pull-${1:(left|right)}"></div>
 ]]></content>
-	<tabTrigger>bhelper-screen-reader&default</tabTrigger>
+	<tabTrigger>bhelper-float</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

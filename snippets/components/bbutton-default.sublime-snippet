@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<button class="btn btn-${1:(default|primary|success|info|warning|danger|link)}${2: btn-group-${3:(xs|sm|lg)}}" type="${4:button}">$5</button>
+<button class="btn btn-${1:(default|primary|success|info|warning|danger|link)}${2: btn-${3:(xs|sm|lg)}}${4: btn-block}" type="${5:button}">$6</button>
 ]]></content>
 	<tabTrigger>bbutton-default</tabTrigger>
 	<scope>text.html - meta.tag</scope>
