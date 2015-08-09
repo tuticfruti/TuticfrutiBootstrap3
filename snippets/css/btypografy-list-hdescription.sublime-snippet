@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<blockquote class="dl-horizontal">
-	<p>${1:$SELECTION}</p>
-	<footer>$2</footer>
-</blockquote>
+<dl class="dl-horizontal">
+	<dt>$1</dt>
+	<dd>$2</dd>
+</dl>
 ]]></content>
 	<tabTrigger>btypografy-list-hdescription</tabTrigger>
 	<scope>text.html - meta.tag</scope>

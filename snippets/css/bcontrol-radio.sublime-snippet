@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="radio${1: disabled}"> <!-- Col and col offset with horizontal forms -->
+	<label>
+		<input type="radio" aria-describedby=""$1> $2
+	</label>
+	${0:bcontrol-help}
+</div>
+]]></content>
+	<tabTrigger>bcontrol-radio</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

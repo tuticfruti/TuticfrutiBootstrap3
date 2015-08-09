@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<em>${1:$SELECTION}</em>
-]]></content>
-	<tabTrigger>btypografy-italicized</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

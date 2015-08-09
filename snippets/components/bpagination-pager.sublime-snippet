@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<nav>
+	<ul class="pager">
+		${1:bpagination-item} <!-- .previous class to float left -->
+		${2:bpagination-item} <!-- .next class to float right -->
+	</ul>
+</nav>
+]]></content>
+	<tabTrigger>bpagination-pager</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

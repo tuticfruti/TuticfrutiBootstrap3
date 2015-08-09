@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="table-responsive">
+	${1:btable}
+</div>
+]]></content>
+	<tabTrigger>btable-responsive</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

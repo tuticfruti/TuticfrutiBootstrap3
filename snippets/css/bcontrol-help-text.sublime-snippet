@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<span id="$1" class="help-block">$0</span>
+]]></content>
+	<tabTrigger>bcontrol-help-text</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

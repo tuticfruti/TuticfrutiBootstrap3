@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-
-]]></content>
-	<tabTrigger>btable-header</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

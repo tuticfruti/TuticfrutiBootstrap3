@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<label class="radio-inline">
+	<input type="radio"${1: disabled}> $3
+</label>
+]]></content>
+	<tabTrigger>bcontrol-radio-inline</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

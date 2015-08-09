@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div> <!-- Use grid col here with horizontal forms -->
+	<textarea id="$1" class="form-control" rows="$2" aria-describedby=""${3: disabled}>$4</textarea>
+	${0:bcontrol-help}
+</div>
+]]></content>
+	<tabTrigger>bcontrol-text-area</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

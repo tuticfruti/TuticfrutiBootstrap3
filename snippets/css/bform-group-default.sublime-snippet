@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group${1: form-group-${2:(sm|lg)}}${3: col-sm-${4:(1-12)}}${5: has-${6:(success|warning|error)}}">
+		${7:bcontrol-label}
+		${8:bcontrol}
+</div>
+]]></content>
+	<tabTrigger>bform-group-default</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

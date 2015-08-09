@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<label for="$1" class="control-label">${2:$SELECTION}</label>
-]]></content>
-	<tabTrigger>bform-label</tabTrigger>
-	<scope>text.html - meta.tag</scope>
-</snippet>

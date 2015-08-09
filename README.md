@@ -1,3 +1,4 @@
+#Table of contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -113,7 +114,7 @@ Includes over 250 glyphs in font format from the Glyphicon Halflings set ([Glyph
 
 ####Classes
 - `glyphicon`
-- `glyphicon-*` (`.glyphicon-align-left`, `.glyphicon-home`, etc.)
+- `glyphicon-(home|user|star|exclamation-sign|...)`
 
 ####Demo
 [Glyphicons demo](https://youtu.be/u9JYaSSVgUM?list=PLL0QEvkK-t2BxBobyy2C1P_JHg6zdeaMs).
@@ -167,6 +168,26 @@ Group a series of buttons together on a single line with the button group. For m
 [Button groups demo](https://youtu.be/BgqjRGxhD-4?list=PLL0QEvkK-t2BxBobyy2C1P_JHg6zdeaMs).
 
 ### Input groups
+Extend form controls by adding text or buttons before, after, or on both sides of any text-based `<input>`. 
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default input group            | `binput-group-default`        |
+| Checkboxes and radio addon     | `binput-group-radio-checkbox` |
+| Button with dropdown           | `binput-group-dropdown`       |
+| Button addon                   | `binput-group-button`         |
+| Segmented buttons              | `binput-group-split`          |
+
+#### Classes
+- input-group
+- input-group-addon
+- input-group-(sm|lg)
+- input-group-btn
+
+#### Demo
+[Input groups demo](https://youtu.be/-Hj7GBi3Ecs?list=PLL0QEvkK-t2BxBobyy2C1P_JHg6zdeaMs).
+
 ### Navs
 ### Navbar
 ### Breadcrumbs
