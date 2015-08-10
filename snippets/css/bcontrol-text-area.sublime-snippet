@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div> <!-- Use grid col here with horizontal forms -->
+<div> <!-- Horizontal forms -->
 	<textarea id="$1" class="form-control" rows="$2" aria-describedby=""${3: disabled}>$4</textarea>
 	${0:bcontrol-help}
 </div>

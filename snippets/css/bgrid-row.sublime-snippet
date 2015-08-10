@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <div class="row">
-	${1:bgrid-col}${2:$SELECTION}
+	${1:$SELECTION}
 </div>
 ]]></content>
 	<tabTrigger>bgrid-row</tabTrigger>

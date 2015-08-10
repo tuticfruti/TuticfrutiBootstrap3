@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <label class="radio-inline">
-	<input type="radio"${1: disabled}> $3
+	<input type="radio"${1: disabled}> $0
 </label>
 ]]></content>
 	<tabTrigger>bcontrol-radio-inline</tabTrigger>

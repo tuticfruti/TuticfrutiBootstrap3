@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<div$> <!-- Use grid col here with horizontal forms -->
+<div$> <!-- Horizontal forms -->
 	<p class="form-control-static" aria-describedby="">$1</p>
-	${0:bcontrol-help}
+	${0:bcontrol-help-text}
 </div>
 ]]></content>
 	<tabTrigger>bcontrol-static</tabTrigger>

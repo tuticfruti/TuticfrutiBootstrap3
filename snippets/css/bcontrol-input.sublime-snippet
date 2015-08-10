@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<div> <!-- Col and col offset with horizontal forms -->
-	<input id="$2" type="${3:text}" class="form-control" aria-describedby=""${4: disabled}>
-	${0:bcontrol-help}
+<div> <!-- Horizontal forms -->
+	<input id="$1" type="${2:text}" class="form-control"${3: placeholder="$4"}${5: disabled}>
+	${0:bcontrol-help-text}
 </div>
 ]]></content>
 	<tabTrigger>bcontrol-input</tabTrigger>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<p class="form-control-static" aria-describedby="">$0</p>
+]]></content>
+	<tabTrigger>bcontrol-static-inline</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

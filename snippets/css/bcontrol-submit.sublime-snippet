@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div> <!-- Col and col offset with horizontal forms -->
+<div> <!-- Horizontal forms -->
 	<button class="btn btn-${1:(default|primary|success|info|warning|danger|link)}" type="submit">$0</button>
 </div>
 ]]></content>

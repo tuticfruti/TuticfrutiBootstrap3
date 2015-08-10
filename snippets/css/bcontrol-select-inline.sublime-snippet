@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<select class="form-control" aria-describedby=""${1: disabled}>
+	<option selected>$2</option>
+	<option>$3</option>
+	<option>$0</option>
+</select>
+]]></content>
+	<tabTrigger>bcontrol-select</tabTrigger>
+	<scope>text.html - meta.tag</scope>
+</snippet>

@@ -468,6 +468,8 @@
 		"progress-bar-success",
 		"progress-bar-warning",
 		"progressbar",
+		"pull-left",
+		"pull-right",
 		"radio",
 		"radio-inline",
 		"row",

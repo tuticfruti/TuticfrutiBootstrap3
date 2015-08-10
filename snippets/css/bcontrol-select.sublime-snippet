@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
-<div> <!-- Use grid col here with horizontal forms -->
+<div> <!-- Horizontal forms -->
 	<select class="form-control" aria-describedby=""${1: disabled}>
 		<option selected>$2</option>
 		<option>$3</option>
 		<option>$4</option>
 	</select>
-	${0:bcontrol-help}
+	${0:bcontrol-help-text}
 </div>
 ]]></content>
 	<tabTrigger>bcontrol-select</tabTrigger>

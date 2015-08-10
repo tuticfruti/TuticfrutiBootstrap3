@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<label for="$1" class="control-label">${0:$SELECTION}</label> <!-- Col and col offset with horizontal forms -->
+<label for="$1" class="control-label">${0:$SELECTION}</label> <!-- Horizontal forms -->
 ]]></content>
 	<tabTrigger>bcontrol-label</tabTrigger>
 	<scope>text.html - meta.tag</scope>
