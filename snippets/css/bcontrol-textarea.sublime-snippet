@@ -5,6 +5,6 @@
 	${0:bcontrol-help}
 </div>
 ]]></content>
-	<tabTrigger>bcontrol-text-area</tabTrigger>
+	<tabTrigger>bcontrol-textarea</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

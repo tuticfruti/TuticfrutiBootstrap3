@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <pre class=\"pre-scrollable\">${1:$SELECTION}</pre>
 ]]></content>
-	<tabTrigger>bcode-block</tabTrigger>
+	<tabTrigger>bcode-block-scroll</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

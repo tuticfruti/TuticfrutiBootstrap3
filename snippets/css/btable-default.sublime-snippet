@@ -7,6 +7,6 @@
 	<tfoot>$8</tfoot>
 </table>
 ]]></content>
-	<tabTrigger>btable</tabTrigger>
+	<tabTrigger>btable-default</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>
