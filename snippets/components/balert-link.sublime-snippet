@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <a href="${1:#}" class="alert-link">$2</a>
 ]]></content>
-	<tabTrigger>balert-item-link</tabTrigger>
+	<tabTrigger>balert-link</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

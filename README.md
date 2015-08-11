@@ -12,71 +12,118 @@
     - [Grid system](#grid-system)
       - [Snippets](#snippets-1)
       - [Classes](#classes)
-      - [Demo](#demo)
     - [Typography](#typography)
       - [Snippets](#snippets-2)
       - [Classes](#classes-1)
-      - [Demo](#demo-1)
     - [Code](#code)
       - [Snippets](#snippets-3)
       - [Classes](#classes-2)
     - [Tables](#tables)
       - [Snippets](#snippets-4)
       - [Classes](#classes-3)
-      - [Demo](#demo-2)
+      - [Demo](#demo)
     - [Forms](#forms)
       - [Snippets](#snippets-5)
       - [Classes](#classes-4)
-      - [Demo](#demo-3)
+      - [Demo](#demo-1)
     - [Buttons](#buttons)
       - [Snippets](#snippets-6)
       - [Classes](#classes-5)
-      - [Demo](#demo-4)
+      - [Demo](#demo-2)
     - [Images](#images)
       - [Snippets](#snippets-7)
       - [Classes](#classes-6)
-      - [Demo](#demo-5)
+      - [Demo](#demo-3)
     - [Helper classes](#helper-classes)
       - [Snippets](#snippets-8)
       - [Classes](#classes-7)
-      - [Demo](#demo-6)
+      - [Demo](#demo-4)
     - [Responsive utilities](#responsive-utilities)
       - [Classes](#classes-8)
   - [Components](#components)
     - [Glyphicons](#glyphicons)
       - [Snippets](#snippets-9)
       - [Classes](#classes-9)
-      - [Demo](#demo-7)
+      - [Demo](#demo-5)
     - [Dropdowns](#dropdowns)
       - [Snippets](#snippets-10)
       - [Classes](#classes-10)
-      - [Demo](#demo-8)
+      - [Demo](#demo-6)
     - [Button groups](#button-groups)
       - [Snippets](#snippets-11)
       - [Classes](#classes-11)
-      - [Demo](#demo-9)
+      - [Demo](#demo-7)
     - [Input groups](#input-groups)
       - [Snippets](#snippets-12)
       - [Classes](#classes-12)
-      - [Demo](#demo-10)
+      - [Demo](#demo-8)
     - [Navs](#navs)
+      - [Snippets](#snippets-13)
+      - [Classes](#classes-13)
+      - [Demo](#demo-9)
     - [Navbar](#navbar)
-    - [Breadcrumbs](#breadcrumbs)
+      - [Snippets](#snippets-14)
+      - [Classes](#classes-14)
+      - [Demo](#demo-10)
+    - [Breadcrumb](#breadcrumb)
+      - [Snippets](#snippets-15)
+      - [Classes](#classes-15)
+      - [Demo](#demo-11)
     - [Pagination](#pagination)
+      - [Snippets](#snippets-16)
+      - [Classes](#classes-16)
+      - [Demo](#demo-12)
     - [Labels](#labels)
+      - [Snippets](#snippets-17)
+      - [Classes](#classes-17)
+      - [Demo](#demo-13)
     - [Badges](#badges)
+      - [Snippets](#snippets-18)
+      - [Classes](#classes-18)
+      - [Demo](#demo-14)
     - [Jumbotron](#jumbotron)
+      - [Snippets](#snippets-19)
+      - [Classes](#classes-19)
+      - [Demo](#demo-15)
     - [Page header](#page-header)
+      - [Snippets](#snippets-20)
+      - [Classes](#classes-20)
+      - [Demo](#demo-16)
     - [Tumbnails](#tumbnails)
+      - [Snippets](#snippets-21)
+      - [Classes](#classes-21)
+      - [Demo](#demo-17)
     - [Alerts](#alerts)
+      - [Snippets](#snippets-22)
+      - [Classes](#classes-22)
+      - [Demo](#demo-18)
     - [Progress bars](#progress-bars)
+      - [Snippets](#snippets-23)
+      - [Classes](#classes-23)
+      - [Demo](#demo-19)
     - [Media object](#media-object)
+      - [Snippets](#snippets-24)
+      - [Classes](#classes-24)
+      - [Demo](#demo-20)
     - [List group](#list-group)
+      - [Snippets](#snippets-25)
+      - [Classes](#classes-25)
+      - [Demo](#demo-21)
     - [Panels](#panels)
+      - [Snippets](#snippets-26)
+      - [Classes](#classes-26)
+      - [Demo](#demo-22)
     - [Responsive embed](#responsive-embed)
+      - [Snippets](#snippets-27)
+      - [Classes](#classes-27)
     - [Wells](#wells)
+      - [Snippets](#snippets-28)
+      - [Classes](#classes-28)
+      - [Demo](#demo-23)
   - [Javascript](#javascript)
   - [Templates](#templates)
+      - [Snippets](#snippets-29)
+- [TODO](#todo)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -86,17 +133,17 @@ A complete and reusable set of Bootstrap3 snippets for Sublime Text editor.
 
 # Features
 - [Bootstrap3](http://getbootstrap.com/).
-- [Predefined classes auto-completion](https://github.com/tuticfruti/TuticfrutiBootstrap3/blob/master/snippets/all-classes.sublime-completions "all-classes.sublime-completions").
-- [CSS](http://getbootstrap.com/css/), [Components](http://getbootstrap.com/components/) and [Javascript](http://getbootstrap.com/javascript/) (comming soon) snippets.
+- [Bootstrap3 classes auto-completion](https://github.com/tuticfruti/TuticfrutiBootstrap3/blob/master/snippets/all-classes.sublime-completions "all-classes.sublime-completions").
+- [CSS snippets](http://getbootstrap.com/css/).
+- [Components snippets](http://getbootstrap.com/components/)
+- [Javascript snippets](http://getbootstrap.com/javascript/) (comming soon) snippets.
 - Reusable components.
-- [Youtube video demo](https://www.youtube.com/playlist?list=PLL0QEvkK-t2BxBobyy2C1P_JHg6zdeaMs "TuticfrutiBootstrap3 playlist").
+- [Youtube video demos](https://www.youtube.com/playlist?list=PLL0QEvkK-t2BxBobyy2C1P_JHg6zdeaMs "TuticfrutiBootstrap3 playlist").
 
 # Pre-requisites
-    Sublime text 2/3?
-    Bootstrap 3 (version ?).
-    Package manager if you install from package manager.
-    Jquery (version ?).
-
+- Sublime text 2&3.
+- Bootstrap 3.
+- Package manager if you install from package manager.
 
 # Getting Started
 Installation.
@@ -327,6 +374,7 @@ For faster mobile-friendly development, use these utility classes for showing an
 - `hidden-print`
 
 ## Components
+
 ### Glyphicons
 Includes over 250 glyphs in font format from the Glyphicon Halflings set ([Glyphicons homepage](http://glyphicons.com/)).
 
@@ -341,7 +389,7 @@ Includes over 250 glyphs in font format from the Glyphicon Halflings set ([Glyph
 - `glyphicon-(home|user|star|exclamation-sign|...)`
 
 ####Demo
-[Glyphicons demo](https://youtu.be/u9JYaSSVgUM?list=PLL0QEvkK-t2BxBobyy2C1P_JHg6zdeaMs).
+[Glyphicons demo](https://youtu.be/u9JYaSSVgUM).
 
 ### Dropdowns
 Toggleable, contextual menu for displaying lists of links. Made interactive with the dropdown JavaScript plugin.
@@ -369,7 +417,7 @@ Toggleable, contextual menu for displaying lists of links. Made interactive with
 - `separator`
 
 ####Demo
-[Dropdowns demo](https://youtu.be/BgqjRGxhD-4?list=PLL0QEvkK-t2BxBobyy2C1P_JHg6zdeaMs).
+[Dropdowns demo](https://youtu.be/3w0m4IR4kEY).
 
 ### Button groups
 Group a series of buttons together on a single line with the button group. For more complex components, combine sets of button groups into a button toolbar.
@@ -389,7 +437,7 @@ Group a series of buttons together on a single line with the button group. For m
 - `btn-group-justified`
 
 #### Demo
-[Button groups demo](https://youtu.be/BgqjRGxhD-4?list=PLL0QEvkK-t2BxBobyy2C1P_JHg6zdeaMs).
+[Button groups demo](https://youtu.be/BgqjRGxhD-4).
 
 ### Input groups
 Extend form controls by adding text or buttons before, after, or on both sides of any text-based `<input>`. 
@@ -410,28 +458,314 @@ Extend form controls by adding text or buttons before, after, or on both sides o
 - `input-group-btn`
 
 #### Demo
-[Input groups demo](https://youtu.be/-Hj7GBi3Ecs?list=PLL0QEvkK-t2BxBobyy2C1P_JHg6zdeaMs).
+[Input groups demo](https://youtu.be/-Hj7GBi3Ecs).
 
 ### Navs
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default nav                    | `bnav-default`                |
+| Default nav item               | `bnav-item-default`           |
+| Active nav item                | `bnav-item-active`            |
+| Disabled nav item              | `bnav-item-disable`           |
+
+#### Classes
+- `nav`
+- `nav-(tabs|pills)`
+- `nav-stacked`
+- `nav-justified`
+- `active|disabled`
+
+#### Demo
+[Input groups demo](https://youtu.be/LRAFHiGdSew).
+
 ### Navbar
-### Breadcrumbs
+Navbars are responsive meta components that serve as navigation headers for your application or site.
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default navbar                 | `bnavbar-default`             |
+| Navbar button item             | `bnavbar-item-button`         |
+| Navbar divider item            | `bnavbar-item-divider`        |
+| Navbar dropdown item           | `bnavbar-item-dropdown`       |
+| Navbar link item               | `bnavbar-item-link`           |
+| Navbar text item               | `bnavbar-item-text`           |
+| Navbar form item               | `bnavbar-item-form`           |
+| Navbar Brand image item        | `bnavbar-item-brand-image`    |
+
+#### Classes
+- `navbar`
+- `bavbar-default`
+- `navbar-header`
+- `navbar-toggle`
+- `collapsed`
+- `icon-bar`
+- `navbar-brand`
+- `navbar-nav`
+- `divider`
+- `navbar-(left|right)`
+- `navbar-btn`
+- `navbar-text`
+- `navbar-fixed-(top|bottom)`
+- `navbar-static-top`
+- `navbar-inverse`
+
+#### Demo
+[Input groups demo](https://youtu.be/E-7GAsUgx7Y).
+
+### Breadcrumb
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default breadcrumb             | `bbreadcrumb-default`         |
+| Default breadcrumb item        | `bbreadcrumb-item-default`    |
+| Active breadcrumb item         | `bbreadcrumb-item-active`     |
+
+#### Classes
+- `breadcrumb`
+- `active`
+
+#### Demo
+[Input groups demo](https://youtu.be/Y3a1nW6Xztc).
+
 ### Pagination
+Provide pagination links for your site or app with the multi-page pagination component, or the simpler pager alternative.
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default pagination             | `bpagination-default`         |
+| Default pagination item        | `bpagination-item-default`    |
+| Active pagination item         | `bpagination-item-active`     |
+| Disabled pagination item       | `bpagination-item-disable`    |
+| Pager                          | `bpagination-pager`         |
+
+#### Classes
+- `pagination`
+- `pagination-(sm|lg)`
+- `active|disabled`
+- `pager`
+- `previous|next`
+
+#### Demo
+[Input groups demo](https://youtu.be/t9RukSB-kqQ).
+
 ### Labels
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default label                  | `blabel-default`              |
+| Inline label                   | `blabel-inline`               |
+
+#### Classes
+- `label`
+- `label-(default|primary|success|info|warning|danger)`
+
+#### Demo
+[Input groups demo](https://youtu.be/T0VwT39qNH4).
+
 ### Badges
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Button badge                   | `bbadge-button`               |
+| Link badge                     | `bbadge-link`                 |
+
+#### Classes
+- `badge`
+- `active`
+
+#### Demo
+[Input groups demo](https://youtu.be/xZCCkxFu_40).
+
 ### Jumbotron
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Jumbotron                      | `bjumbotron`                  |
+
+#### Classes
+- `jumbotron`
+
+#### Demo
+[Input groups demo](https://youtu.be/lqlq9XrxEgY).
+
 ### Page header
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default page header                    | `bpage-header`                |
+
+
+#### Classes
+- `page-header`
+
+#### Demo
+[Input groups demo](https://youtu.be/gKTKujmXjKU).
+
 ### Tumbnails
+Extend Bootstrap's grid system with the thumbnail component to easily display grids of images, videos, text, and more.
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default thumbnail              | `bthumbnail-default`          |
+
+#### Classes
+- `thumbnail`
+
+#### Demo
+[Input groups demo](https://youtu.be/MK-CwiG3LW0).
+
 ### Alerts
+Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default alert                  | `balert-default`              |
+| Dismissible alert              | `balert-dismissible`          |
+| Alert link                     | `balert-link`                 |
+
+#### Classes
+- `alert`
+- `alert-(success|info|warning|danger)`
+- `alert-dismissible`
+- `alert-link`
+
+#### Demo
+[Input groups demo](https://youtu.be/JkR88QLstZw).
+
 ### Progress bars
+Provide up-to-date feedback on the progress of a workflow or action with simple yet flexible progress bars.
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default progress bar           | `bprogress-bar-default`       |
+| Stacked progress bars          | `bprogress-bar-stack`         |
+
+#### Classes
+- `progress`
+- `progress-bar`
+- `progress-bar-(success|info|warning|danger)`
+- `progress-bar-striped`
+- `active` (animated)
+
+#### Demo
+[Input groups demo](https://youtu.be/DDp_lvrUxSw).
+
 ### Media object
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default media                  | `bmedia-default`              |
+| Media list                     | `bmedia-list`                 |
+| Media item                     | `bmedia-item-default`         |
+
+#### Classes
+- `media`
+- `media-(left|right)`
+- `media-object`
+- `media-body`
+- `media-heading`
+- `media-list`
+
+#### Demo
+[Input groups demo](https://youtu.be/4iHBV06jGC4).
+
 ### List group
+List groups are a flexible and powerful component for displaying not only simple lists of elements, but complex ones with custom content.
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default list group             | `blist-group-default`         |
+| Default item                   | `blist-group-item-default`    |
+| Badge item                     | `blist-group-item-badge`      |
+| Button item                    | `blist-group-item-button`     |
+| Link item                      | `blist-group-item-link`       |
+| Context item                   | `blist-group-item-context`    |
+| Custom item                    | `blist-group-item-custom`     |
+
+
+#### Classes
+- `list-group`
+- `list-group-item`
+- `badge`
+- `active|disabled`
+- `list-group-item-(success|info|warning|danger)`
+- `list-group-item-heading`
+- `list-group-item-text`
+
+#### Demo
+[Input groups demo](https://youtu.be/zDB_pL3-IqE).
+
 ### Panels
+While not always necessary, sometimes you need to put your DOM in a box. For those situations, try the panel component.
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default panel                  | `bpanel-default`              |
+
+#### Classes
+- `panel`
+- `panel-heading`
+- `panel-footer`
+- `panel-title`
+- `panel-(default|primary|success|info|warning|danger)`
+
+#### Demo
+[Input groups demo](https://youtu.be/AFYFt8Wja_U).
+
 ### Responsive embed
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Responsive embed               | `bembed-responsive`           |
+
+#### Classes
+- `embed-responsive`
+- `embed-responsive-item`
+- `embed-responsive-16by9`
+- `embed-responsive-4by3`
+
 ### Wells
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default well                   | `bwell-default`               |
+
+#### Classes
+- `well`
+- `well-(sm|lg)`
+
+#### Demo
+[Input groups demo](https://youtu.be/HDwzV6NJpCo).
 
 ## Javascript
 Comming soon.
+
 ## Templates
+
+#### Snippets
+| Snippet                        | Tab trigger                   |
+| ------------------------------ | ----------------------------- |
+| Default template               | `btemplate-default`           |
+
+#TODO
+- Javascript Bootstrap3 support.
 
 # License
 **The MIT License (MIT)**
