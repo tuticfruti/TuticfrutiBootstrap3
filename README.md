@@ -138,9 +138,6 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 - `col-(xs|sm|md|lg)-pull-(1-12)`
 - `col-(xs|sm|md|lg)-offset-(1-12)`
 
-####Demo
-[Grid system demo](https://).
-
 ### Typography
 
 ####Snippets
@@ -169,9 +166,6 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 - `blockquote-reverse`
 - `list-(style|unstyled|inline)`
 - `dl-horizontal`
-
-####Demo
-[Typografy demo](https://).
 
 ### Code
 
@@ -204,7 +198,7 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 - `active|success|info|warning|danger`
 
 ####Demo
-[Tables demo](https://).
+[Tables demo](https://youtu.be/6pzlxSeV8Ik).
 
 ### Forms
 
@@ -252,7 +246,7 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 - `help-block`
 
 ####Demo
-[Forms demo](https://).
+[Forms demo](https://youtu.be/8V3Imk1gRKk).
 
 ### Buttons
 
@@ -271,7 +265,7 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 - `disabled`
 
 ####Demo
-[Buttons demo](https://).
+[Buttons demo](https://youtu.be/Yj83bzlKlNU).
 
 ### Images
 
@@ -287,7 +281,7 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 - `img-thumbnail`
 
 ####Demo
-[Images demo](https://).
+[Images demo](https://youtu.be/P6F72Ju-fnU).
 
 ### Helper classes
 
@@ -318,7 +312,7 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 - `text-hide`
 
 ####Demo
-[Helpers demo](https://).
+[Helpers demo](https://youtu.be/S2AzJ9Z5OFc).
 
 ### Responsive utilities
 For faster mobile-friendly development, use these utility classes for showing and hiding content by device via media query. Also included are utility classes for toggling content when printed.
