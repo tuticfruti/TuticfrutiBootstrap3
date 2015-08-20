@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <p class="bg-${1:(primary|success|info|warning|danger)}">${2:$SELECTION}</p>
 ]]></content>
-	<tabTrigger>bhelper-background</tabTrigger>
+	<tabTrigger>bhelperb</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

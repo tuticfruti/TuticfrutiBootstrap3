@@ -2,11 +2,11 @@
 	<content><![CDATA[
 <div class="checkbox${1: disabled}"> <!-- Horizontal forms -->
 	<label>
-		<input type="checkbox" aria-describedby=""$1> $2
+		<input type="checkbox"$1> $2
 	</label>
-	${0:bcontrol-help-text}
+	${3:bctrlht}
 </div>
 ]]></content>
-	<tabTrigger>bcontrol-checkbox</tabTrigger>
+	<tabTrigger>bctrlc</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

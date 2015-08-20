@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
-<table class="table${1: table-striped}${2: table-bordered}${3: table-hover}${4: table-condensed}">
-	<caption>$5</caption>
-	<thead>$6</thead>
-	<tbody>$7</tbody>
-	<tfoot>$8</tfoot>
+<table class="table${1:${2: table-striped}${3: table-bordered}${4: table-hover}${5: table-condensed}}">
+	<caption>$6</caption>
+	<thead>$7</thead>
+	<tbody>$8</tbody>
+	<tfoot>$9</tfoot>
 </table>
 ]]></content>
-	<tabTrigger>btable-default</tabTrigger>
+	<tabTrigger>btabled</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

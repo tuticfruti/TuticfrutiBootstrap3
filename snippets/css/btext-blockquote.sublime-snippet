@@ -5,6 +5,6 @@
 	<footer>$3</footer>
 </blockquote>
 ]]></content>
-	<tabTrigger>btypografy-blockquote-footer</tabTrigger>
+	<tabTrigger>btextb</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <span class="caret"></span>
 ]]></content>
-	<tabTrigger>bhelper-caret</tabTrigger>
+	<tabTrigger>bhelperca</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

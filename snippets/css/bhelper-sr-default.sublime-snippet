@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<span class="sr-only"></span>
+<span class="sr-only">${1:$SELECTION}</span>
 ]]></content>
-	<tabTrigger>bhelper-sr-default</tabTrigger>
+	<tabTrigger>bhelpersrd</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

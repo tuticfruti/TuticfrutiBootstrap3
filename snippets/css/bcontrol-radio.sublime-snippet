@@ -2,11 +2,11 @@
 	<content><![CDATA[
 <div class="radio${1: disabled}"> <!-- Horizontal forms -->
 	<label>
-		<input type="radio" aria-describedby=""$1> $2
+		<input type="radio"$1> $2
 	</label>
-	${0:bcontrol-help-text}
+	${3:bctrlht}
 </div>
 ]]></content>
-	<tabTrigger>bcontrol-radio</tabTrigger>
+	<tabTrigger>bctrlr</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

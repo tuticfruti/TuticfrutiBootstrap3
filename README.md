@@ -168,12 +168,11 @@ Examples:
 Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases.
 
 ####Snippets
-| Snippet           | Tab trigger          |
-| ----------------- | -------------------- |
-| Container         | `bcontainer`         |
-| Fluid container   | `bcontainer-fluid`   |
-| Grid row          | `bgrid-row`          |
-| Grid column       | `bgrid-col`          |
+| Snippet                     | Tab trigger          |
+| --------------------------- | -------------------- |
+| Container & fluid container | `bcontainer`         |
+| Grid row                    | `brow`               |
+| Grid column                 | `bcol`               |
 
 ####Classes
 - `container`
@@ -188,19 +187,18 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 ### Typography
 
 ####Snippets
-| Snippet                      | Tab trigger                     |
-| ---------------------------- | ------------------------------- |
-| Headings                     | `btypografy-header`             |
-| Lead body copy               | `btypografy-lead`               |
-| Marked text                  | `btypografy-mark`               |
-| Small text                   | `btypografy-small`              |
-| Alignment classes            | `btypografy-text-align`         |
-| Transformation classes       | `btypografy-text-trans`         |
-| Initialism                   | `btypografy-initialism`         |
-| Blockquote with footer       | `btypografy-blockquote-footer`  |
-| Reverse blockquote           | `btypografy-blockquote-reverse` |
-| Lists (unstyled|inline)      | `btypografy-list`               |
-| Horizontal description list  | `btypografy-list-hdescription`  |
+| Snippet                      | Tab trigger |
+| ---------------------------- | ------------|
+| Headings                     | `btexth`    |
+| Lead body copy               | `btextle`   |
+| Marked text                  | `btextm`    |
+| Small text                   | `btexts`    |
+| Alignment classes            | `btexta`    |
+| Transformation classes       | `btextt`    |
+| Initialism                   | `btexti`    |
+| Blockquote with footer       | `btextb`    |
+| Lists (unstyled|inline)      | `btextli`   |
+| Horizontal description list  | `btexthd`   |
 
 ####Classes
 - `h(1-6)`
@@ -217,9 +215,9 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 ### Code
 
 ####Snippets
-| Snippet           | Tab trigger          |
-| ----------------- | -------------------- |
-| Block scrollable  | `bcode-block-scroll` |
+| Snippet           | Tab trigger |
+| ----------------- | ------------|
+| Block scrollable  | `bcodebs`   |
 
 ####Classes
 - `pre-scrollable`
@@ -227,13 +225,13 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 ### Tables
 
 ####Snippets
-| Snippet           | Tab trigger          |
-| ----------------- | -------------------- |
-| Default table     | `btable-default`     |
-| Responsive table  | `btable-responsive`  |
-| Table row         | `btable-tr`          |
-| Table td          | `btable-td`          |
-| Table th          | `btable-th`          |
+| Snippet           | Tab trigger |
+| ----------------- | ------------|
+| Default table     | `btabled`   |
+| Responsive table  | `btabler`   |
+| Table row         | `btr`       |
+| Table td          | `btd`       |
+| Table th          | `bth`       |
 
 ####Classes
 - `table`
@@ -250,27 +248,27 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 ### Forms
 
 ####Snippets
-| Snippet                 | Tab trigger                |
-| ----------------------- | -------------------------- |
-| Default form            | `bform-default`            |
-| Default form group      | `bform-group-default`      |
-| Input control           | `bcontrol-input`           |
-| Inline input control    | `bcontrol-input-inline`    | 
-| Textarea control        | `bcontrol-textarea`        |
-| Radio control           | `bcontrol-radio`           |
-| Inline Radio control    | `bcontrol-radio-inline`    |
-| Checkbox control        | `bcontrol-checkbox`        |
-| Inline checkbox control | `bcontrol-checkbox-inline` |
-| Select control          | `bcontrol-select`          |
-| Inline select control   | `bcontrol-select-inline`   |
-| Static control          | `bcontrol-static`          |
-| Inline static control   | `bcontrol-static-inline`   |
-| Submit button           | `bcontrol-submit`          |
-| Inline submit button    | `bcontrol-submit-inline`   |
-| Help text               | `bcontrol-help`            |
-| Label                   | `bcontrol-label`           |
-| Inline Label            | `bcontrol-label-inline`    |
-| Field set               | `bform-fieldset`           |
+| Snippet                 | Tab trigger |
+| ----------------------- | ------------|
+| Default form            | `bformd`    |
+| Default form group      | `bformg`    |
+| Input control           | `bctrli`    |
+| Inline input control    | `bctrlii`   | 
+| Textarea control        | `bctrlt`    |
+| Radio control           | `bctrlr`    |
+| Inline Radio control    | `bctrlri`   |
+| Checkbox control        | `bctrlc`    |
+| Inline checkbox control | `bctrlci`   |
+| Select control          | `bctrlse`   |
+| Inline select control   | `bctrlsei`  |
+| Static control          | `bctrlst`   |
+| Inline static control   | `bctrlsti`  |
+| Submit button           | `bctrlsu`   |
+| Inline submit button    | `bctrlsui`  |
+| Help text               | `bctrlht`   |
+| Label                   | `bctrll`    |
+| Inline Label            | `bctrlli`   |
+| Field set               | `bformf`    |
 
 ####Classes
 - `form-inline`
@@ -298,10 +296,10 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 ### Buttons
 
 ####Snippets
-| Snippet           | Tab trigger          |
-| ----------------- | -------------------- |
-| Default button    | `bbutton-default`    |
-| Link button       | `bbutton-link`       |
+| Snippet           | Tab trigger |
+| ----------------- | ------------|
+| Default button    | `bbtnd`     |
+| Link button       | `bbtnl`     |
 
 ####Classes
 - `btn`
@@ -317,9 +315,9 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 ### Images
 
 ####Snippets
-| Snippet           | Tab trigger          |
-| ----------------- | -------------------- |
-| Default image     | `bimage-default`     |
+| Snippet           | Tab trigger |
+| ----------------- | ------------|
+| Default image     | `bimaged`   |
 
 ####Classes
 - `img-responsive`
@@ -333,18 +331,18 @@ Bootstrap includes a responsive, mobile first fluid grid system that appropriate
 ### Helper classes
 
 ####Snippets
-| Snippet                | Tab trigger            |
-| ---------------------- | ---------------------- |
-| Contextual colors      | `bhelper-color`        |
-| Contextual backgrounds | `bhelper-background`   |
-| Close icon             | `bhelper-close-icon`   |
-| Carets                 | `bhelper-caret`        |
-| Quick floats           | `bhelper-float`        |
-| Center content blocks  | `bhelper-center-block` |
-| Clearfix               | `bhelper-clearfix`     |
-| Showing and hiding     | `bhelper-visibility`   |
-| Screen reader          | `bhelper-sr-default`   |
-| Screen reader          | `bhelper-sr-link`      |
+| Snippet                | Tab trigger  |
+| ---------------------- | -------------|
+| Contextual colors      | `bhelperco`  |
+| Contextual backgrounds | `bhelperb`   |
+| Close icon             | `bhelperci`  |
+| Carets                 | `bhelperca`  |
+| Quick floats           | `bhelperf`   |
+| Center content blocks  | `bhelpercb`  |
+| Clearfix               | `bhelpercl`  |
+| Showing and hiding     | `bhelperv`   |
+| Screen reader default  | `bhelpersrd` |
+| Screen reader link     | `bhelpersrl` |
 
 ####Classes
 - `text-(muted|primary|success|info|warning|danger)`
@@ -478,7 +476,7 @@ Extend form controls by adding text or buttons before, after, or on both sides o
 - `active|disabled`
 
 #### Demo
-[Input groups demo](https://youtu.be/LRAFHiGdSew).
+[Nav demo](https://youtu.be/LRAFHiGdSew).
 
 ### Navbar
 Navbars are responsive meta components that serve as navigation headers for your application or site.
@@ -513,7 +511,7 @@ Navbars are responsive meta components that serve as navigation headers for your
 - `navbar-inverse`
 
 #### Demo
-[Input groups demo](https://youtu.be/E-7GAsUgx7Y).
+[Navbar demo](https://youtu.be/E-7GAsUgx7Y).
 
 ### Breadcrumb
 
@@ -529,7 +527,7 @@ Navbars are responsive meta components that serve as navigation headers for your
 - `active`
 
 #### Demo
-[Input groups demo](https://youtu.be/Y3a1nW6Xztc).
+[Breadcrumb demo](https://youtu.be/Y3a1nW6Xztc).
 
 ### Pagination
 Provide pagination links for your site or app with the multi-page pagination component, or the simpler pager alternative.
@@ -551,7 +549,7 @@ Provide pagination links for your site or app with the multi-page pagination com
 - `previous|next`
 
 #### Demo
-[Input groups demo](https://youtu.be/t9RukSB-kqQ).
+[Pagination demo](https://youtu.be/t9RukSB-kqQ).
 
 ### Labels
 
@@ -566,7 +564,7 @@ Provide pagination links for your site or app with the multi-page pagination com
 - `label-(default|primary|success|info|warning|danger)`
 
 #### Demo
-[Input groups demo](https://youtu.be/T0VwT39qNH4).
+[Labels demo](https://youtu.be/T0VwT39qNH4).
 
 ### Badges
 
@@ -581,7 +579,7 @@ Provide pagination links for your site or app with the multi-page pagination com
 - `active`
 
 #### Demo
-[Input groups demo](https://youtu.be/xZCCkxFu_40).
+[Badges demo](https://youtu.be/xZCCkxFu_40).
 
 ### Jumbotron
 
@@ -594,7 +592,7 @@ Provide pagination links for your site or app with the multi-page pagination com
 - `jumbotron`
 
 #### Demo
-[Input groups demo](https://youtu.be/lqlq9XrxEgY).
+[Jumbotron demo](https://youtu.be/lqlq9XrxEgY).
 
 ### Page header
 
@@ -608,7 +606,7 @@ Provide pagination links for your site or app with the multi-page pagination com
 - `page-header`
 
 #### Demo
-[Input groups demo](https://youtu.be/gKTKujmXjKU).
+[Page headers demo](https://youtu.be/gKTKujmXjKU).
 
 ### Tumbnails
 Extend Bootstrap's grid system with the thumbnail component to easily display grids of images, videos, text, and more.
@@ -622,7 +620,7 @@ Extend Bootstrap's grid system with the thumbnail component to easily display gr
 - `thumbnail`
 
 #### Demo
-[Input groups demo](https://youtu.be/MK-CwiG3LW0).
+[Thumbnails demo](https://youtu.be/MK-CwiG3LW0).
 
 ### Alerts
 Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.
@@ -641,7 +639,7 @@ Provide contextual feedback messages for typical user actions with the handful o
 - `alert-link`
 
 #### Demo
-[Input groups demo](https://youtu.be/JkR88QLstZw).
+[Alerts demo](https://youtu.be/JkR88QLstZw).
 
 ### Progress bars
 Provide up-to-date feedback on the progress of a workflow or action with simple yet flexible progress bars.
@@ -660,7 +658,7 @@ Provide up-to-date feedback on the progress of a workflow or action with simple 
 - `active` (animated)
 
 #### Demo
-[Input groups demo](https://youtu.be/DDp_lvrUxSw).
+[Progress bars demo](https://youtu.be/DDp_lvrUxSw).
 
 ### Media object
 
@@ -680,7 +678,7 @@ Provide up-to-date feedback on the progress of a workflow or action with simple 
 - `media-list`
 
 #### Demo
-[Input groups demo](https://youtu.be/4iHBV06jGC4).
+[Media object demo](https://youtu.be/4iHBV06jGC4).
 
 ### List group
 List groups are a flexible and powerful component for displaying not only simple lists of elements, but complex ones with custom content.
@@ -707,7 +705,7 @@ List groups are a flexible and powerful component for displaying not only simple
 - `list-group-item-text`
 
 #### Demo
-[Input groups demo](https://youtu.be/zDB_pL3-IqE).
+[List groups demo](https://youtu.be/zDB_pL3-IqE).
 
 ### Panels
 While not always necessary, sometimes you need to put your DOM in a box. For those situations, try the panel component.
@@ -725,7 +723,7 @@ While not always necessary, sometimes you need to put your DOM in a box. For tho
 - `panel-(default|primary|success|info|warning|danger)`
 
 #### Demo
-[Input groups demo](https://youtu.be/AFYFt8Wja_U).
+[Panels demo](https://youtu.be/AFYFt8Wja_U).
 
 ### Responsive embed
 
@@ -752,7 +750,7 @@ While not always necessary, sometimes you need to put your DOM in a box. For tho
 - `well-(sm|lg)`
 
 #### Demo
-[Input groups demo](https://youtu.be/HDwzV6NJpCo).
+[Well demo](https://youtu.be/HDwzV6NJpCo).
 
 ## Javascript
 Comming soon.

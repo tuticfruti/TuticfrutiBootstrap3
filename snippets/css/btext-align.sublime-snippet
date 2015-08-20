@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <p class="text-${1:(left|right|center|justify|nowrap)}">${2:$SELECTION}</p>
 ]]></content>
-	<tabTrigger>btypografy-text-align</tabTrigger>
+	<tabTrigger>btexta</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

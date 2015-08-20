@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 <div> <!-- Horizontal forms -->
-	<textarea id="$1" class="form-control" rows="$2" aria-describedby=""${3: disabled}>$4</textarea>
-	${0:bcontrol-help}
+	<textarea class="form-control" rows="$1"${2: disabled}>${3:$SELECTION}</textarea>
+	${4:bctrlht}
 </div>
 ]]></content>
-	<tabTrigger>bcontrol-textarea</tabTrigger>
+	<tabTrigger>bctrlt</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

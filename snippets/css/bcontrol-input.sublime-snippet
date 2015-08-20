@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 <div> <!-- Horizontal forms -->
-	<input id="$1" type="${2:text}" class="form-control"${3: placeholder="$4"}${5: disabled}>
-	${0:bcontrol-help-text}
+	<input type="${1:text}" class="form-control"${2: disabled}>
+	${3:bctrlht}
 </div>
 ]]></content>
-	<tabTrigger>bcontrol-input</tabTrigger>
+	<tabTrigger>bctrli</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

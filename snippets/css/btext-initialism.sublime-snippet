@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<p class="h${1:(1-6)}">${2:$SELECTION}</p>
+<abbr title="$1" class="initialism">${2:$SELECTION}</abbr>
 ]]></content>
-	<tabTrigger>btypografy-header</tabTrigger>
+	<tabTrigger>btexti</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

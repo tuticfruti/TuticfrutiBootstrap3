@@ -4,6 +4,6 @@
 	${4:$SELECTION}
 </div>
 ]]></content>
-	<tabTrigger>bgrid-col</tabTrigger>
+	<tabTrigger>bcol</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

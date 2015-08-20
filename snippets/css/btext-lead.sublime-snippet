@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<p class="mark">${1:$SELECTION}</p>
+<p class="lead">${1:$SELECTION}</p>
 ]]></content>
-	<tabTrigger>btypografy-mark</tabTrigger>
+	<tabTrigger>btextle</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

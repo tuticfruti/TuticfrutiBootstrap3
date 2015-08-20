@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<label class="checkbox-inline">
-	<input type="checkbox"${1: disabled}> $0
+<label class="checkbox-inline"${1: disabled}>
+	<input type="checkbox"$1> $2
 </label>
 ]]></content>
-	<tabTrigger>bcontrol-checkbox-inline</tabTrigger>
+	<tabTrigger>bctrlci</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

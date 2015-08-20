@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<input id="$1" type="${2:text}" class="form-control"${3: placeholder="$4"}${0: disabled}>
+<input type="${1:text}" class="form-control"${2: disabled}>
 ]]></content>
-	<tabTrigger>bcontrol-input-inline</tabTrigger>
+	<tabTrigger>bctrlii</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

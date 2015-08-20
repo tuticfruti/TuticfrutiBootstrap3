@@ -2,10 +2,8 @@
 	<content><![CDATA[
 <ul class="list-${1:(unstyled|inline)}">
 	<li>$2</li>
-	<li>$3</li>
-	<li>$4</li>
 </ul>
 ]]></content>
-	<tabTrigger>btypografy-list</tabTrigger>
+	<tabTrigger>btextli</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

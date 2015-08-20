@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <p class="text-${1:(muted|primary|success|info|warning|danger)}">${2:$SELECTION}</p>
 ]]></content>
-	<tabTrigger>bhelper-color</tabTrigger>
+	<tabTrigger>bhelperco</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

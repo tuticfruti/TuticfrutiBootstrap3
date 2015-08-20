@@ -5,6 +5,6 @@
 	<dd>$2</dd>
 </dl>
 ]]></content>
-	<tabTrigger>btypografy-list-hdescription</tabTrigger>
+	<tabTrigger>btextlihd</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <div class="center-block">${1:$SELECTED}</div>
 ]]></content>
-	<tabTrigger>bhelper-center-block</tabTrigger>
+	<tabTrigger>bhelpercb</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

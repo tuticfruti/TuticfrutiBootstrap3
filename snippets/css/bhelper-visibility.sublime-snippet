@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <div class="${1:(show|hidden)}">${2:$SELECTION}</div>
 ]]></content>
-	<tabTrigger>bhelper-visibility</tabTrigger>
+	<tabTrigger>bhelperv</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

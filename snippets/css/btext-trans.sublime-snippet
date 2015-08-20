@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <p class="text-${1:(lowercase|uppercase|capitalize)}">${2:$SELECTION}</p>
 ]]></content>
-	<tabTrigger>btypografy-text-trans</tabTrigger>
+	<tabTrigger>btextt</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

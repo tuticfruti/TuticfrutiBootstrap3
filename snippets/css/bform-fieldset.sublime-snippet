@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<fieldset${1: disabled}>$2
+<fieldset${1: disabled}>${2:$SELECTION}
 </fieldset>
 ]]></content>
-	<tabTrigger>bform-fieldset</tabTrigger>
+	<tabTrigger>bformf</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>

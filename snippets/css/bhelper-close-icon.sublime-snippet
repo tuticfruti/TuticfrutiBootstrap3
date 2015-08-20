@@ -2,6 +2,6 @@
 	<content><![CDATA[
 <button type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 ]]></content>
-	<tabTrigger>bhelper-close-icon</tabTrigger>
+	<tabTrigger>bhelperci</tabTrigger>
 	<scope>text.html - meta.tag</scope>
 </snippet>
